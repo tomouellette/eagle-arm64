@@ -18,6 +18,7 @@ Then, clone the repository and compile the binary.
 git clone https://github.com/tomouellette/eagle-macos-arm64
 cd eagle-macos-arm64
 make    
+./eagle --help
 ```
 
 ## References
