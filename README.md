@@ -15,8 +15,8 @@ brew install boost openblas libomp htslib zlib
 Then, clone the repository and compile the binary.
 
 ```bash
-git clone https://github.com/tomouellette/eagle-macos-arm64
-cd eagle-macos-arm64
+git clone https://github.com/tomouellette/eagle-arm64
+cd eagle-arm64
 make    
 ./eagle --help
 ```
